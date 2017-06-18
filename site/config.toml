@@ -9,8 +9,8 @@ paginate = 10
 theme = "blackburn"
 
 [taxonomies]
-  tag = "tags"
-  topic = "topics"
+  tags = "tags"
+  topics = "topics"
 
 [params]
   subtitle = "Husband · Father · Developer"
