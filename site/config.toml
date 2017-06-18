@@ -1,7 +1,6 @@
 baseurl = "."
 languageCode = "en-us"
-title = "Hyde"
-theme = "hyde"
+title = "Derek's Blog"
+theme = "blackburn"
 
 [params]
-  themeColor = "theme-base-09"
