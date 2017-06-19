@@ -7,6 +7,8 @@ copyright = "&copy; 2017. All rights reserved."
 canonifyurls = true
 paginate = 10
 theme = "blackburn"
+PygmentsCodeFences = true
+PygmentsStyle = "native"
 
 [taxonomies]
   tags = "tags"
