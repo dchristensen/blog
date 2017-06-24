@@ -2,7 +2,7 @@
 date = "2017-06-18T16:03:04-04:00"
 description = ""
 draft = false
-tags = ["iis", "tls", "ssl", "powershell"]
+tags = ["iis", "https", "tls", "ssl", "powershell"]
 title = "IIS Self Signed TLS/SSL Certificate"
 topics = ["development", "scripts"]
 
